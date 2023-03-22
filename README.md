@@ -1,21 +1,16 @@
-# redbook-blog
+# Redbook Blog - A social media platform app backend demo
 
-## Intro 介绍
-> 类小红书的社区app后端，包含基本功能
+- Authorization and Authentication
+- Post
+- Comment
+- Like
 
-- 登录注册
-- 发帖
-- 点赞
-- ...
-
-## Techstack 技术栈
+## Requisites
   - Java
   - Spring Boot
   - Spring Security
   - MySQL
   - JPA
   
-## To do
-- Posts 发帖
-- Like 点赞
-- ...
+## Reference
+TODO
